@@ -1,0 +1,21 @@
+{
+  "name": "aveadev/magento-2-italian-language-pack",
+  "description": "Italian language package for Magento 2",
+  "keywords": [
+    "magento", 
+    "italian language",
+    "it_IT"
+  ],
+  "type": "magento2-language",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Avea"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
