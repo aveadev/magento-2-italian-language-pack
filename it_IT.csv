@@ -15323,3 +15323,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "component.behaviours","component.behaviours",lib,web
 "The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_SalesRule
 "Our hours are <span class=""no-link"">%store_hours</span>.","I nostri orari di apertura sono <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+Shipping Info,Informazioni di spedizione,module,Magento_Sales
