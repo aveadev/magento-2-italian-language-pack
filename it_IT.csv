@@ -15171,6 +15171,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Thank you for your order from %store_name.","Grazie per il tuo ordine da %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","È possibile controllare lo status del tuo ordine accedendo <a href=""%account_url"">al tuo account</a>.",theme,frontend/Magento/luma
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Se hai domande sul tuo ordine, puoi inviare una email a <a href=""mailto:%store_email"">%store_email</a>",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","La tua nota di credito #%creditmemo_id per l'ordine #%order_id",theme,frontend/Magento/luma
 "Billing Info","Informazioni di fatturazione",theme,frontend/Magento/luma
 "Payment Method","Metodo di pagamento",theme,frontend/Magento/luma
@@ -15321,3 +15322,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
 "The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_SalesRule
+"Our hours are <span class=""no-link"">%store_hours</span>.","I nostri orari di apertura sono <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
