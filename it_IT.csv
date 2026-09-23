@@ -15324,3 +15324,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The coupon code isn't valid. Verify the code and try again.","Il codice coupon non è valido. Verifica il codice e riprova.",module,Magento_SalesRule
 "Our hours are <span class=""no-link"">%store_hours</span>.","I nostri orari di apertura sono <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 Shipping Info,Informazioni di spedizione,module,Magento_Sales
+Your Cart,Il tuo carrello,module,Magento_Checkout
+Customer Login,Accesso cliente,module,Magento_Customer
+Create New Customer Account,Crea nuovo account cliente,module,Magento_Customer
+Legal guarantee notice,Avviso di garanzia legale,module,Swissup_CheckoutConsumerRights
+Toggle Nav,Menu,module,Magento_Theme
+Search,Cerca,module,Magento_Ui
+My Account,Il mio Account,theme,frontend/Magento/blank
