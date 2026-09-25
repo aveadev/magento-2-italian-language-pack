@@ -177,7 +177,7 @@ Si prega di selezionare un sito web per questo prodotto in ""Prodotto nei siti W
 "Reset","Reimposta",module,Magento_AdvancedCheckout
 "SKU: ","SKU: ",module,Magento_AdvancedCheckout
 "Only <span id=""%1_max_allowed"">%2</span> in stock","Solo <span id=""%1_max_allowed"">%2</span> in magazzino",module,Magento_AdvancedCheckout
-"Item","Oggetto",module,Magento_AdvancedCheckout
+"Item","Articolo",module,Magento_AdvancedCheckout
 "See price before order confirmation.","Vedere il prezzo prima della conferma dell'ordine.",module,Magento_AdvancedCheckout
 "What's this?","Cos'è questo?",module,Magento_AdvancedCheckout
 "Incl. Tax","Tasse incl.",module,Magento_AdvancedCheckout
@@ -403,7 +403,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Card Code Response","Risposta codice carta",module,Magento_Authorizenet
 "CAVV Response","Risposta CAVV",module,Magento_Authorizenet
 "Fraud Filters","Filtri di frode",module,Magento_Authorizenet
-"Place Order","Effettua Ordine",module,Magento_Authorizenet
+"Place Order","Effettua ordine",module,Magento_Authorizenet
 "Sorry, but something went wrong. Please contact the seller.","Spiacenti, ma qualcosa è andato storto. Contattare l'assistenza clienti.",module,Magento_Authorizenet
 "Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
 "Enabled","Abilitato",module,Magento_Authorizenet
@@ -509,7 +509,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Quantity","Quantità",module,Magento_Backend
 "Views","Viste",module,Magento_Backend
 "Revenue","Entrate",module,Magento_Backend
-"Tax","Tassa",module,Magento_Backend
+"Tax","IVA",module,Magento_Backend
 "Shipping","Spedizione",module,Magento_Backend
 "Images (.gif, .jpg, .png)","Immagini (. gif,. jpg,. png)",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Media (.avi, .FLV, .swf)",module,Magento_Backend
@@ -1190,7 +1190,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Credit Card Information","Informazioni carta di credito",module,Magento_Braintree
 "What is this?","Cos'è questo?",module,Magento_Braintree
 "Save for later use.","Salva per un uso successivo.",module,Magento_Braintree
-"Place Order","Effettua Ordine",module,Magento_Braintree
+"Place Order","Effettua ordine",module,Magento_Braintree
 "This payment is not available","Questo pagamento non è disponibile",module,Magento_Braintree
 "MM","MM",module,Magento_Braintree
 "YY","AA",module,Magento_Braintree
@@ -2981,7 +2981,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "My Cart (1 item)","Carrello (1 articolo)",module,Magento_Checkout
 "My Cart (%1 items)","Carrello (%1 articoli)",module,Magento_Checkout
 "My Cart","Carrello",module,Magento_Checkout
-"%1: Line %2","%1: Line %2",module,Magento_Checkout
+"%1: Line %2","%1: Riga %2",module,Magento_Checkout
 "For delivery questions.","Per domande sulla consegna.",module,Magento_Checkout
 "Customer is already registered","Il cliente è già registrato",module,Magento_Checkout
 "Your session has expired","La sessione è scaduta",module,Magento_Checkout
@@ -3052,14 +3052,14 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Apply Discount","Applica sconto",module,Magento_Checkout
 "Cancel Coupon","Annulla il Coupon",module,Magento_Checkout
 "Shopping Cart Items","Prodotti nel carrello",module,Magento_Checkout
-"Item","Oggetto",module,Magento_Checkout
+"Item","Articolo",module,Magento_Checkout
 "Price","Prezzo",module,Magento_Checkout
 "Qty","Qtà",module,Magento_Checkout
 "Subtotal","Subtotale",module,Magento_Checkout
-"Continue Shopping","Continua gli Acquisti",module,Magento_Checkout
+"Continue Shopping","Continua gli acquisti",module,Magento_Checkout
 "Clear Shopping Cart","Svuota Carrello",module,Magento_Checkout
-"Update Shopping Cart","Aggiorna Carrello",module,Magento_Checkout
-"Update Cart","Aggiorna Carrello",module,Magento_Checkout
+"Update Shopping Cart","Aggiorna carrello",module,Magento_Checkout
+"Update Cart","Aggiorna carrello",module,Magento_Checkout
 "See price before order confirmation.","Vedere il prezzo prima della conferma dell'ordine.",module,Magento_Checkout
 "What's this?","Cos'è questo?",module,Magento_Checkout
 "Edit item parameters","Modificare i parametri del prodotto",module,Magento_Checkout
@@ -3073,7 +3073,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Hai aggiunto %1 al tuo <a href=""%2"">carrello</a>.",module,Magento_Checkout
 "Loading...","Caricamento...",module,Magento_Checkout
 "Order #","Ordine n. ",module,Magento_Checkout
-"Proceed to Checkout","Procedi al Checkout",module,Magento_Checkout
+"Proceed to Checkout","Procedi al pagamento",module,Magento_Checkout
 "Product Name","Nome prodotto",module,Magento_Checkout
 "Incl. Tax","Tasse incl.",module,Magento_Checkout
 "Your order number is: %1.","Il numero d'ordine è: %1.",module,Magento_Checkout
@@ -3113,13 +3113,13 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "See Details","Vedi dettagli",module,Magento_Checkout
 "Options Details","Dettagli opzioni",module,Magento_Checkout
 "Remove","Elimina",module,Magento_Checkout
-"Cart Subtotal","Subtotale Carrello",module,Magento_Checkout
+"Cart Subtotal","Subtotale carrello",module,Magento_Checkout
 "No Payment Methods","No Payment Methods",module,Magento_Checkout
 "Payment Information","Informazioni di pagamento",module,Magento_Checkout
 "No Payment method available.","Nessun metodo di pagamento disponibile.",module,Magento_Checkout
 "You can track your order status by creating an account.","Creando un account è possibile monitorare lo stato dell'ordine.",module,Magento_Checkout
 "Create an Account","Create an Account",module,Magento_Checkout
-"Place Order","Effettua Ordine",module,Magento_Checkout
+"Place Order","Effettua ordine",module,Magento_Checkout
 "Forgot an Item?","Hai dimenticato un oggetto?",module,Magento_Checkout
 "Edit Your Cart","Modifica il tuo carrello",module,Magento_Checkout
 "Ship Here","Spedisci qui",module,Magento_Checkout
@@ -3128,12 +3128,12 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Carrier Title","Carrier Title",module,Magento_Checkout
 "Ship To:","Spedisci a:",module,Magento_Checkout
 "edit","modifica",module,Magento_Checkout
-"Shipping Address","Indirizzo di Spedizione",module,Magento_Checkout
+"Shipping Address","Indirizzo di spedizione",module,Magento_Checkout
 "New Address","Nuovo Indirizzo",module,Magento_Checkout
-"Shipping Methods","Shipping Methods",module,Magento_Checkout
+"Shipping Methods","Metodi di spedizione",module,Magento_Checkout
 "Next","Next",module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_Checkout
-"Order Summary","Riepilogo Ordine",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Al momento non è disponibile alcun metodo di spedizione per questo ordine.",module,Magento_Checkout
+"Order Summary","Riepilogo ordine",module,Magento_Checkout
 "View Details","Visualizza dettagli",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Il CAP fornito sembra non essere valido.",module,Magento_Checkout
 " Example: "," Esempio: ",module,Magento_Checkout
@@ -3973,7 +3973,7 @@ Il tuo saldo in sospeso, attualmente ammonta a %outstanding_balance. Hai a dispo
 "Available Credit ","Credito disponibile ",module,Magento_CompanyCredit
 "The Payment on Account method is not available in the selected currency. Please contact the seller.","Il metodo di pagamento Mettilo In Conto non è disponibile nella valuta selezionata. Per favore contatta il venditore.",module,Magento_CompanyCredit
 "Company credit account will be charged: ","L'account del credito aziendale verrà cambiato: ",module,Magento_CompanyCredit
-"Place Order","Effettua Ordine",module,Magento_CompanyCredit
+"Place Order","Effettua ordine",module,Magento_CompanyCredit
 "Cancel the Order","Annulla l'ordine",module,Magento_CompanyCredit
 "This is a required field.","Questo è un campo obbligatorio.",module,Magento_CompanyCredit
 "Please enter a valid number in this field.","Inserire un numero valido in questo campo.",module,Magento_CompanyCredit
@@ -4671,7 +4671,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Per Website","Per website",module,Magento_Customer
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Non è possibile condividere gli account dei clienti a livello globale quando gli account condividono indirizzi email identici su più website.",module,Magento_Customer
 "Billing Address","Indirizzo di Fatturazione",module,Magento_Customer
-"Shipping Address","Indirizzo di Spedizione",module,Magento_Customer
+"Shipping Address","Indirizzo di spedizione",module,Magento_Customer
 "-- Please Select --","-- Seleziona --",module,Magento_Customer
 "A valid password reset token is missing. Enter and try again.","A valid password reset token is missing. Enter and try again.",module,Magento_Customer
 "Admin","Amministratore",module,Magento_Customer
@@ -5414,7 +5414,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Shopping Cart Total","Totale carrello",module,Magento_CustomerSegment
 "Subtotal","Subtotale",module,Magento_CustomerSegment
 "Grand Total","Totale complessivo",module,Magento_CustomerSegment
-"Tax","Tassa",module,Magento_CustomerSegment
+"Tax","IVA",module,Magento_CustomerSegment
 "Gift Card","Carta Regalo",module,Magento_CustomerSegment
 "Shopping Cart %1 Amount %2 %3:","Carrello %1 importo %2 %3:",module,Magento_CustomerSegment
 "The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again.",module,Magento_CustomerSegment
@@ -5488,7 +5488,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Authorize and Capture","Autorizza e trattieni",module,Magento_Cybersource
 "Risk Factor Q","Fattore di rischio Q",module,Magento_Cybersource
 "Risk Factor V","Fattore di rischio V",module,Magento_Cybersource
-"Place Order","Effettua Ordine",module,Magento_Cybersource
+"Place Order","Effettua ordine",module,Magento_Cybersource
 "Cybersource","Cybersource",module,Magento_Cybersource
 "Enabled","Abilitato",module,Magento_Cybersource
 "Payment Action","Azione di pagamento",module,Magento_Cybersource
@@ -6679,7 +6679,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Type","Tipo",module,Magento_GiftRegistry
 "Owner","Proprietario",module,Magento_GiftRegistry
 "Created on","Creato il",module,Magento_GiftRegistry
-"Shipping Address","Indirizzo di Spedizione",module,Magento_GiftRegistry
+"Shipping Address","Indirizzo di spedizione",module,Magento_GiftRegistry
 "Shopping Cart Items","Prodotti nel carrello",module,Magento_GiftRegistry
 "New Attribute","Nuovo attributo",module,Magento_GiftRegistry
 "Input Type","Tipo di input",module,Magento_GiftRegistry
@@ -7179,7 +7179,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Instant Purchase","Acquisto immediato",module,Magento_InstantPurchase
 "Instant Purchase Confirmation","Conferma di acquisto immediato",module,Magento_InstantPurchase
 "Are you sure you want to place order and pay?","Are you sure you want to place order and pay?",module,Magento_InstantPurchase
-"Shipping Address","Indirizzo di Spedizione",module,Magento_InstantPurchase
+"Shipping Address","Indirizzo di spedizione",module,Magento_InstantPurchase
 "Billing Address","Indirizzo di Fatturazione",module,Magento_InstantPurchase
 "Payment Method","Metodo di pagamento",module,Magento_InstantPurchase
 "Shipping Method","Metodo di Spedizione",module,Magento_InstantPurchase
@@ -7763,7 +7763,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "InvalidArgumentException","InvalidArgumentException",module,Magento_MultipleWishlist
 "Refresh","Aggiorna",module,Magento_MultipleWishlist
 "All Wish Lists","Tutte le liste desideri",module,Magento_MultipleWishlist
-"Item","Oggetto",module,Magento_MultipleWishlist
+"Item","Articolo",module,Magento_MultipleWishlist
 "Qty","Qtà",module,Magento_MultipleWishlist
 "Price","Prezzo",module,Magento_MultipleWishlist
 "Remove","Elimina",module,Magento_MultipleWishlist
@@ -7844,7 +7844,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Review Order - %1","Rivedi Ordine - %1",module,Magento_Multishipping
 "Total","Totale",module,Magento_Multishipping
 "Total for this address","Totale per questo indirizzo",module,Magento_Multishipping
-"Shipping Methods","Metodi di Spedizione",module,Magento_Multishipping
+"Shipping Methods","Metodi di spedizione",module,Magento_Multishipping
 "Edit Address","Modifica l'indirizzo",module,Magento_Multishipping
 "Edit Billing Address","Modifica l'indirizzo di fatturazione",module,Magento_Multishipping
 "Edit Shipping Address","Modifica l'indirizzo di spedizione",module,Magento_Multishipping
@@ -7870,7 +7870,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Select Addresses","Seleziona gli indirizzi",module,Magento_Multishipping
 "Shipping Information","Informazioni di spedizione",module,Magento_Multishipping
 "Billing Information","Informazioni di fatturazione",module,Magento_Multishipping
-"Place Order","Effettua Ordine",module,Magento_Multishipping
+"Place Order","Effettua ordine",module,Magento_Multishipping
 "Order Success","Ordine riuscito",module,Magento_Multishipping
 "Order Results","Order Results",module,Magento_Multishipping
 "Default Billing","Fatturazione predefinita",module,Magento_Multishipping
@@ -7910,7 +7910,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Incl. Tax","Tasse incl.",module,Magento_Multishipping
 "Excl. Tax","Tasse escl.",module,Magento_Multishipping
 "Order Review","Rivedi ordine",module,Magento_Multishipping
-"Item","Oggetto",module,Magento_Multishipping
+"Item","Articolo",module,Magento_Multishipping
 "Edit","Modifica",module,Magento_Multishipping
 "Price","Prezzo",module,Magento_Multishipping
 "Subtotal","Subtotale",module,Magento_Multishipping
@@ -7935,7 +7935,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Back to Select Addresses","Torna alla selezione degli indirizzi",module,Magento_Multishipping
 "For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.","For successfully order items, you'll receive a confirmation email including order numbers, tracking information and more details.",module,Magento_Multishipping
 "Successfully ordered","Successfully ordered",module,Magento_Multishipping
-"Continue Shopping","Continua gli Acquisti",module,Magento_Multishipping
+"Continue Shopping","Continua gli acquisti",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","Non è possibile completare l'ordine perchè non hai un metodo di pagamento installato.",module,Magento_Multishipping
 "Please choose a payment method.","Si prega di scegliere un metodo di pagamento.",module,Magento_Multishipping
 "Multishipping Settings Section","Sezione Impostazioni Spedizioni Multiple",module,Magento_Multishipping
@@ -8222,7 +8222,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Shipping Information","Informazioni di spedizione",module,Magento_NegotiableQuote
 "Shipping Methods & Price","Shipping Methods & Price",module,Magento_NegotiableQuote
 "Sorry, rates are not available for this quote.","Siamo spiacenti, tassi non disponibili per questa quotazione.",module,Magento_NegotiableQuote
-"Shipping Address","Indirizzo di Spedizione",module,Magento_NegotiableQuote
+"Shipping Address","Indirizzo di spedizione",module,Magento_NegotiableQuote
 "You have no shipping address for this quote.","Non ci sono indirizzi di spedizione relativi a questo preventivo.",module,Magento_NegotiableQuote
 "Incl. Tax","Tasse incl.",module,Magento_NegotiableQuote
 "Proposed Shipping Price","Prezzo di spedizione offerto",module,Magento_NegotiableQuote
@@ -8265,7 +8265,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "No shipping information available","Nessuna informazione di spedizione disponibile",module,Magento_NegotiableQuote
 "Select a shipping address from your address book.","Seleziona un indirizzo di spedizione dalla tua rubrica.",module,Magento_NegotiableQuote
 "Send for Review","Richiedi Conferma",module,Magento_NegotiableQuote
-"Proceed to Checkout","Procedi al Checkout",module,Magento_NegotiableQuote
+"Proceed to Checkout","Procedi al pagamento",module,Magento_NegotiableQuote
 "Close quote","Chiudi preventivo",module,Magento_NegotiableQuote
 "Delete","Elimina",module,Magento_NegotiableQuote
 "Order Number:","Order Number:",module,Magento_NegotiableQuote
@@ -8279,7 +8279,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Contact Us","Contattaci",module,Magento_NegotiableQuote
 "Your quote number is: %1.","Il tuo numero di preventivo è: %1.",module,Magento_NegotiableQuote
 "The quote has been sent to the merchant.","La quotazione è stata inviata al venditore.",module,Magento_NegotiableQuote
-"Continue Shopping","Continua gli Acquisti",module,Magento_NegotiableQuote
+"Continue Shopping","Continua gli acquisti",module,Magento_NegotiableQuote
 "Please specify the reason","Per favore, specifica una motivazione",module,Magento_NegotiableQuote
 "Dear %merchant_name,","Caro %merchant_name,",module,Magento_NegotiableQuote
 "New quote ","Nuovo Preventivo ",module,Magento_NegotiableQuote
@@ -8331,7 +8331,7 @@ Puoi impostare una nuova data di scadenza se lo desideri.",module,Magento_Negoti
 "To proceed with the checkout, update the shipping address.","To proceed with the checkout, update the shipping address.",module,Magento_NegotiableQuote
 "New Address","New Address",module,Magento_NegotiableQuote
 "Your shipping address is locked. To change your shipping address, go ","Your shipping address is locked. To change your shipping address, go ",module,Magento_NegotiableQuote
-"Shipping Methods","Shipping Methods",module,Magento_NegotiableQuote
+"Shipping Methods","Metodi di spedizione",module,Magento_NegotiableQuote
 "Next","Next",module,Magento_NegotiableQuote
 "Sorry, no quotes are available for this order at this time","Sorry, no quotes are available for this order at this time",module,Magento_NegotiableQuote
 "Update Catalog Prices","Update Catalog Prices",module,Magento_NegotiableQuote
@@ -8600,7 +8600,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Purchase Order Number: %1","Numero ordine d'acquisto: %1",module,Magento_OfflinePayments
 "Make Check payable to","Fare assegno intestato a",module,Magento_OfflinePayments
 "Send Check to","Inviare assegno a",module,Magento_OfflinePayments
-"Place Order","Effettua Ordine",module,Magento_OfflinePayments
+"Place Order","Effettua ordine",module,Magento_OfflinePayments
 "Check / Money Order","Vaglia",module,Magento_OfflinePayments
 "Enabled","Abilitato",module,Magento_OfflinePayments
 "New Order Status","Nuovo stato dell'ordine",module,Magento_OfflinePayments
@@ -8748,7 +8748,7 @@ If field is empty default value localhost will be saved.","Elenco accessi IP sep
 "Card Verification Number Visual Reference","Scheda Verifica numero riferimento visivo",module,Magento_Payment
 "What is this?","Cos'è questo?",module,Magento_Payment
 "Credit Card Information","Informazioni carta di credito",module,Magento_Payment
-"Place Order","Effettua Ordine",module,Magento_Payment
+"Place Order","Effettua ordine",module,Magento_Payment
 "Forgot an Item?","Hai dimenticato un oggetto?",module,Magento_Payment
 "Edit Your Cart","Modifica il tuo carrello",module,Magento_Payment
 "Please enter a valid credit card type number.","Inserisci un numero di tipo di carta di credito valido.",module,Magento_Payment
@@ -9177,15 +9177,15 @@ If field is empty default value localhost will be saved.","Elenco accessi IP sep
 "Please select a shipping method...","Seleziona un metodo di spedizione...",module,Magento_Paypal
 "Update Shipping Method","Aggiorna il metodo di spedizione",module,Magento_Paypal
 "Sorry, no quotes are available for this order right now.","Spiacente, nessun preventivo disponibile per questo ordine in questo momento.",module,Magento_Paypal
-"Shipping Address","Indirizzo di Spedizione",module,Magento_Paypal
+"Shipping Address","Indirizzo di spedizione",module,Magento_Paypal
 "Edit","Modifica",module,Magento_Paypal
 "Buy now with PayPal","Acquista ora con PayPal",module,Magento_Paypal
 "Edit Payment Information","Modifica le informazioni di pagamento",module,Magento_Paypal
 "Items in Your Shopping Cart","Articoli nel tuo carrello",module,Magento_Paypal
 "Edit Shopping Cart","Modifica carrello",module,Magento_Paypal
-"Place Order","Effettua Ordine",module,Magento_Paypal
+"Place Order","Effettua ordine",module,Magento_Paypal
 "Submitting order information...","Invio nformazioni ordine...",module,Magento_Paypal
-"Item","Oggetto",module,Magento_Paypal
+"Item","Articolo",module,Magento_Paypal
 "Price","Prezzo",module,Magento_Paypal
 "Qty","Qtà",module,Magento_Paypal
 "Subtotal","Subtotale",module,Magento_Paypal
@@ -9651,7 +9651,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Something went wrong. Please try to place the order again.","Something went wrong. Please try to place the order again.",module,Magento_Quote
 "Store Credit","Credito negozio",module,Magento_Quote
 "Discount","Sconto",module,Magento_Quote
-"Tax","Tassa",module,Magento_Quote
+"Tax","IVA",module,Magento_Quote
 "The Cart includes virtual product(s) only, so a shipping address is not used.","The Cart includes virtual product(s) only, so a shipping address is not used.",module,Magento_Quote
 "The shipping method can't be set. %1","The shipping method can't be set. %1",module,Magento_Quote
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Quote
@@ -9946,7 +9946,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Paid","Pagato",module,Magento_Reports
 "Refunded","Rimborsati",module,Magento_Reports
 "Sales Tax","Imposta Vendite",module,Magento_Reports
-"Tax","Tassa",module,Magento_Reports
+"Tax","IVA",module,Magento_Reports
 "Sales Shipping","Spedizione vendite",module,Magento_Reports
 "Shipping","Spedizione",module,Magento_Reports
 "Canceled","Cancellato",module,Magento_Reports
@@ -10167,7 +10167,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Delete Requisition List","Elimina lista RdA (Richieste di Acquisto)",module,Magento_RequisitionList
 "You have no items in this requisition list.","Non hai articoli nella lista RdA.",module,Magento_RequisitionList
 "Product Name","Nome prodotto",module,Magento_RequisitionList
-"Item","Oggetto",module,Magento_RequisitionList
+"Item","Articolo",module,Magento_RequisitionList
 "Price","Prezzo",module,Magento_RequisitionList
 "Qty","Qtà",module,Magento_RequisitionList
 "Subtotal","Subtotale",module,Magento_RequisitionList
@@ -10801,7 +10801,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "RMA Items Requested for","Elementi RMA richiesti per",module,Magento_Rma
 "Please Select Products to Add","Seleziona i prodotti da aggiungere",module,Magento_Rma
 "Remove","Elimina",module,Magento_Rma
-"Item","Oggetto",module,Magento_Rma
+"Item","Articolo",module,Magento_Rma
 "Return items","Elementi reso",module,Magento_Rma
 "Sub-items","Elementi secondari",module,Magento_Rma
 "Quantity To Return","Quantità per il Reso",module,Magento_Rma
@@ -10833,7 +10833,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Are you sure you want to delete this tracking information?","Sei sicuro di voler cancellare le informazioni di tracciamento?",module,Magento_Rma
 "Request Information","Richiesta informazioni",module,Magento_Rma
 "Date Requested","Data richiesta",module,Magento_Rma
-"Shipping Address","Indirizzo di Spedizione",module,Magento_Rma
+"Shipping Address","Indirizzo di spedizione",module,Magento_Rma
 "This won't take long . . .","Non ci vorrà molto . . .",module,Magento_Rma
 "Shipping and Tracking Information","Informazioni di spedizione e di tracciamento",module,Magento_Rma
 "Track this shipment","Rintraccia la spedizione",module,Magento_Rma
@@ -10990,7 +10990,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Price","Prezzo",module,Magento_Sales
 "Select","Seleziona",module,Magento_Sales
 "Quantity","Quantità",module,Magento_Sales
-"Shipping Address","Indirizzo di Spedizione",module,Magento_Sales
+"Shipping Address","Indirizzo di spedizione",module,Magento_Sales
 "Shipping Method","Metodo di Spedizione",module,Magento_Sales
 "Update Changes","Aggiorna modifiche",module,Magento_Sales
 "Shopping Cart","Carrello",module,Magento_Sales
@@ -11350,7 +11350,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Products","Prodotti",module,Magento_Sales
 "Total (ex)","Totale (es)",module,Magento_Sales
 "Qty","Qtà",module,Magento_Sales
-"Tax","Tassa",module,Magento_Sales
+"Tax","IVA",module,Magento_Sales
 "Total (inc)","Totale (inc)",module,Magento_Sales
 "Credit Memo # ","Nota di credito # ",module,Magento_Sales
 "Invoice # ","Fattura # ",module,Magento_Sales
@@ -11492,7 +11492,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "You don't need to select a shipping method.","Non è necessario selezionare un metodo di spedizione.",module,Magento_Sales
 "Customer's Activities","Attività del cliente",module,Magento_Sales
 "Refresh","Aggiorna",module,Magento_Sales
-"Item","Oggetto",module,Magento_Sales
+"Item","Articolo",module,Magento_Sales
 "Add To Order","Aggiungere all'ordine",module,Magento_Sales
 "Configure and Add to Order","Configura e aggiungi all'ordine",module,Magento_Sales
 "No items","Nessun elemento",module,Magento_Sales
@@ -11808,7 +11808,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Refunded","Rimborsati",module,Magento_SalesArchive
 "Order Status","Status Ordine",module,Magento_SalesArchive
 "Billing Address","Indirizzo di Fatturazione",module,Magento_SalesArchive
-"Shipping Address","Indirizzo di Spedizione",module,Magento_SalesArchive
+"Shipping Address","Indirizzo di spedizione",module,Magento_SalesArchive
 "Customer Name","Nome cliente",module,Magento_SalesArchive
 "Email","Email",module,Magento_SalesArchive
 "Customer Group","Gruppo Cliente",module,Magento_SalesArchive
@@ -12750,7 +12750,7 @@ configurando nel catalogo condiviso non saranno limitati ai clienti.",module,Mag
 "Shipping Policy Parameters","Parametri delle policy di spedizione",module,Magento_Shipping
 "Apply custom Shipping Policy","Applica policy di spedizione personalizzate",module,Magento_Shipping
 "Shipping Policy","Policy di spedizione",module,Magento_Shipping
-"Shipping Methods","Metodi di Spedizione",module,Magento_Shipping
+"Shipping Methods","Metodi di spedizione",module,Magento_Shipping
 "Track your order","Traccia il tuo ordine",module,Magento_Shipping
 "Track All Shipments","Traccia tutte le spedizioni",module,Magento_Shipping
 "Approved","Approvato",module,Magento_Signifyd
@@ -13125,7 +13125,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Partial Refund Offline","Rimborso parziale offline",module,Magento_Support
 "Payments Functionality Matrix","Matrice funzionalità pagamenti",module,Magento_Support
 "Payment Methods","Metodi di pagamento",module,Magento_Support
-"Shipping Methods","Metodi di Spedizione",module,Magento_Support
+"Shipping Methods","Metodi di spedizione",module,Magento_Support
 "Job Code","Job Code",module,Magento_Support
 "Cron Expression","Espressione Cron",module,Magento_Support
 "Run Class","Esegui Classe",module,Magento_Support
@@ -13439,7 +13439,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Grand Total (Excl.Tax)","Totale complessivo (Escl. Tasse)",module,Magento_Tax
 "Grand Total (Incl.Tax)","Totale complessivo (Incl. Tasse)",module,Magento_Tax
 "Sales","Vendite",module,Magento_Tax
-"Tax","Tassa",module,Magento_Tax
+"Tax","IVA",module,Magento_Tax
 "Manage Tax Rates","Gestisci aliquote fiscali",module,Magento_Tax
 "New Tax Rate","Nuova aliquota fiscale",module,Magento_Tax
 "Tax Zones and Rates","Zone e aliquote fiscali",module,Magento_Tax
@@ -13477,7 +13477,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "You cannot delete this tax class because it is used in existing %1(s).","Non è possibile eliminare questa classe fiscale perchè è usata in %1 esistenti.",module,Magento_Tax
 "Custom price if available","Prezzo personalizzato se disponibile",module,Magento_Tax
 "Original price only","Solo prezzo originale",module,Magento_Tax
-"Shipping Address","Indirizzo di Spedizione",module,Magento_Tax
+"Shipping Address","Indirizzo di spedizione",module,Magento_Tax
 "Billing Address","Indirizzo di Fatturazione",module,Magento_Tax
 "Shipping Origin","Origine spedizione",module,Magento_Tax
 "No (price without tax)","No (prezzo senza tasse)",module,Magento_Tax
@@ -13877,7 +13877,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "To Start","To Start",module,Magento_Ui
 "To End","To End",module,Magento_Ui
 "Past","Past",module,Magento_Ui
-"Tooltip","Tooltip",module,Magento_Ui
+"Tooltip","Suggerimento",module,Magento_Ui
 "Add","Aggiungi",module,Magento_Ui
 "Something went wrong.","Qualcosa è andato storto.",module,Magento_Ui
 "The file upload field is disabled.","The file upload field is disabled.",module,Magento_Ui
@@ -14567,7 +14567,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?",module,Magento_Vault
 "PayPal Account","Account PayPal",module,Magento_Vault
 "expires","expires",module,Magento_Vault
-"Place Order","Effettua Ordine",module,Magento_Vault
+"Place Order","Effettua ordine",module,Magento_Vault
 "Cancel","Annulla",module,Magento_Vault
 "Specify the ""public_hash"" value.","Specify the ""public_hash"" value.",module,Magento_VaultGraphQl
 "Could not find a token using public hash: %1","Could not find a token using public hash: %1",module,Magento_VaultGraphQl
@@ -14847,7 +14847,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "frontend_label","frontend_label",module,Magento_Weee
 "Fixed Product Tax","Tassa fissa prodotto",module,Magento_Weee
 "Country/State","Paese",module,Magento_Weee
-"Tax","Tassa",module,Magento_Weee
+"Tax","IVA",module,Magento_Weee
 "Website","Sito Web",module,Magento_Weee
 "Action","Azione",module,Magento_Weee
 "Excl. Tax","Tasse escl.",module,Magento_Weee
@@ -15018,7 +15018,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Share Wish List","Condividi lista desideri",module,Magento_Wishlist
 "Add All to Cart","Aggiungi tutto al carrello",module,Magento_Wishlist
 "Update Wish List","Aggiorna lista desideri",module,Magento_Wishlist
-"Move to Wishlist","Sposta alla lista desideri",module,Magento_Wishlist
+"Move to Wishlist","Sposta nella lista desideri",module,Magento_Wishlist
 "Add to Wish List","Aggiungi alla lista desideri",module,Magento_Wishlist
 "View Product","Visualizza prodotto",module,Magento_Wishlist
 "Qty","Qtà",module,Magento_Wishlist
@@ -15331,3 +15331,4 @@ Legal guarantee notice,Avviso di garanzia legale,module,Swissup_CheckoutConsumer
 Toggle Nav,Menu,module,Magento_Theme
 Search,Cerca,module,Magento_Ui
 My Account,Il mio Account,theme,frontend/Magento/blank
+"Selected shipping method is not available. Please select another shipping method for this order.","Il metodo di spedizione selezionato non è disponibile. Seleziona un altro metodo di spedizione per questo ordine.",module,Magento_Checkout
