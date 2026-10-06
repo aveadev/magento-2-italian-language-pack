@@ -15332,3 +15332,4 @@ Toggle Nav,Menu,module,Magento_Theme
 Search,Cerca,module,Magento_Ui
 My Account,Il mio Account,theme,frontend/Magento/blank
 "Selected shipping method is not available. Please select another shipping method for this order.","Il metodo di spedizione selezionato non è disponibile. Seleziona un altro metodo di spedizione per questo ordine.",module,Magento_Checkout
+"The store will not work correctly when cookies are disabled.","Il negozio non funzionerà correttamente quando i cookie sono disattivati.",module,Magento_Theme
