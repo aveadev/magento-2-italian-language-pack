@@ -15333,3 +15333,8 @@ Search,Cerca,module,Magento_Ui
 My Account,Il mio Account,theme,frontend/Magento/blank
 "Selected shipping method is not available. Please select another shipping method for this order.","Il metodo di spedizione selezionato non è disponibile. Seleziona un altro metodo di spedizione per questo ordine.",module,Magento_Checkout
 "The store will not work correctly when cookies are disabled.","Il negozio non funzionerà correttamente quando i cookie sono disattivati.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,La tua carta ha fondi insufficienti. Usa un altro metodo di pagamento per completare l'acquisto.
+Your card was declined.,La tua carta è stata rifiutata.
+Your card has expired.,La tua carta è scaduta.
+Your card's security code is incorrect.,Il codice di sicurezza della tua carta non è corretto.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","Non è stato possibile elaborare la carta. Riprova il pagamento. Se continua a non funzionare, contatta l'emittente della carta."
